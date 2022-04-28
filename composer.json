@@ -26,7 +26,6 @@
         "phpunit/phpunit": "*",
         "symfony/yaml": "^3.4 || ^4.2 || ^5.0"
     },
-    "prefer-stable": true,
     "autoload": {
         "exclude-from-classmap": ["/Tests/"],
         "psr-4": {
